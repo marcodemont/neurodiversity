@@ -1,0 +1,506 @@
+1: Fragen – ASS+DD3 +ADHS
+2: RAADS-R (Ritvo Autism Asperger Diagnostic Scale – Revised)
+3: 1. Kernprofil (Neurodiversität) → RAADS-R, AQ, RBQ.
+4: 2. Maskingprofil → CAT-Q.
+5: Fassaden-/Persönlichkeitszüge → EQ (Empathie), zusätzlich Dark-Triad-ähnliche
+6: Items könntest du ergänzen.
+7: 3.
+8: 
+9: raads-r
+10: 1. Ich bin eine mitfühlende Person.
+11: Ich benutze oft Wörter und Redewendungen aus Filmen oder dem Fernsehen in
+12: Gesprächen.
+13: 2.
+14: 3. Ich bin oft überrascht, wenn andere mir sagen, dass ich unhöflich war.
+15: 4. Manchmal spreche ich zu laut oder zu leise, und ich merke es nicht.
+16: 5. Ich weiss oft nicht, wie ich mich in sozialen Situationen verhalten soll.
+17: 6. Ich kann mich in andere Menschen hineinversetzen.
+18: Es fällt mir schwer, manche Redewendungen zu verstehen, wie z. B. „Du bist der Apfel
+19: meines Auges".
+20: 7.
+21: 8. Ich rede nur gerne mit Menschen, die meine Spezialinteressen teilen.
+22: 9. Ich konzentriere mich mehr auf Details als auf das Gesamte.
+23: Ich bemerke immer, wie sich Essen in meinem Mund anfühlt. Das ist mir wichtiger als
+24: der Geschmack.
+25: 10.
+26: 11. Ich vermisse meine besten Freunde oder meine Familie, wenn wir lange getrennt sind.
+27: Manchmal beleidige ich andere, indem ich sage, was ich denke, auch wenn ich es
+28: nicht so meine.
+29: 12.
+30: 13. Ich denke und rede nur gerne über wenige Dinge, die mich interessieren.
+31: 14. Ich gehe lieber alleine ins Restaurant essen als mit jemandem, den ich kenne.
+32: 15. Ich kann mir nicht vorstellen, wie es wäre, jemand anderes zu sein.
+33: 16. Mir wurde gesagt, dass ich tollpatschig oder unkoordiniert bin.
+34: 17. Andere halten mich für seltsam oder anders.
+35: 18. Ich verstehe, wenn Freunde getröstet werden müssen.
+36: Ich bin sehr empfindlich gegenüber dem Gefühl von Kleidung auf meiner Haut. Wie
+37: sie sich anfühlt, ist mir wichtiger als wie sie aussieht.
+38: 19.
+39: Ich ahme gerne die Art nach, wie bestimmte Leute sprechen und sich verhalten. Es
+40: hilft mir, normaler zu wirken.
+41: 20.
+42: Es kann für mich sehr einschüchternd sein, mit mehr als einer Person gleichzeitig zu
+43: reden.
+44: 21.
+45: 22. Ich muss „normal" wirken, um anderen zu gefallen und damit sie mich mögen.
+46: 23. Neue Leute kennenzulernen ist für mich normalerweise einfach.
+47: Ich bin sehr verwirrt, wenn mich jemand unterbricht, während ich über etwas rede,
+48: das mich sehr interessiert.
+49: 24.
+50: 25. Es fällt mir schwer zu verstehen, wie andere sich fühlen, wenn wir reden.
+51: Ich unterhalte mich gerne mit mehreren Personen, z. B. am Esstisch, in der Schule
+52: oder bei der Arbeit.
+53: 26.
+54: 27. Ich nehme Dinge zu wörtlich und verpasse daher oft, was andere wirklich meinen.
+55: Es ist für mich sehr schwierig zu erkennen, wenn jemand verlegen oder eifersüchtig
+56: ist.
+57: 28.
+58: Manche gewöhnlichen Texturen, die andere nicht stören, sind für mich sehr
+59: unangenehm.
+60: 29.
+61: Ich werde extrem verärgert, wenn sich die Art, wie ich Dinge gerne tue, plötzlich
+62: ändert.
+63: 30.
+64: 31. Ich wollte oder brauchte noch nie das, was andere eine „intime Beziehung" nennen.
+65: Es fällt mir schwer, ein Gespräch zu beginnen oder zu beenden. Ich muss
+66: weitermachen, bis ich fertig bin.
+67: 32.
+68: 33. Ich spreche mit normalem Rhythmus.
+69: Derselbe Ton, dieselbe Farbe oder Textur kann für mich plötzlich von sehr empfindlich
+70: zu sehr stumpf wechseln.
+71: 34.
+72: 35. Der Ausdruck „Ich habe dich unter meiner Haut" macht mich unwohl.
+73: Manchmal kann der Klang eines Wortes oder ein hoher Ton für meine Ohren
+74: schmerzhaft sein.
+75: 36.
+76: 37. Ich bin ein verständnisvoller Typ Mensch.
+77: Ich kann keine Verbindung zu Filmcharakteren aufbauen und nicht fühlen, was sie
+78: fühlen.
+79: 38.
+80: 39. Ich kann nicht erkennen, wenn jemand mit mir flirtet.
+81: 40. Ich kann mir in meinem Kopf Dinge, die mich interessieren, in allen Details vorstellen.
+82: Ich führe Listen von Dingen, die mich interessieren, auch wenn sie keinen praktischen
+83: Nutzen haben (z. B. Sportstatistiken, Fahrpläne, historische Daten).
+84: 41.
+85: 42. Wenn mich meine Sinne überwältigen, muss ich mich isolieren, um sie abzuschalten.
+86: 43. Ich rede gerne Dinge mit meinen Freunden durch.
+87: Ich kann nicht erkennen, ob jemand interessiert oder gelangweilt ist von dem, was ich
+88: sage.
+89: 44.
+90: Es kann für mich sehr schwer sein, Gesichtsausdrücke, Hand- und Körperbewegungen
+91: anderer zu lesen, während sie reden.
+92: 45.
+93: Dasselbe (z. B. Kleidung oder Temperaturen) kann sich für mich zu verschiedenen
+94: Zeiten sehr unterschiedlich anfühlen.
+95: 46.
+96: 47. Ich fühle mich sehr wohl beim Dating oder bei sozialen Situationen mit anderen.
+97: Ich versuche, so hilfreich wie möglich zu sein, wenn mir jemand seine persönlichen
+98: Probleme erzählt.
+99: 48.
+100: Man hat mir gesagt, dass ich eine ungewöhnliche Stimme habe (z. B. flach, monoton,
+101: kindlich oder hoch).
+102: 49.
+103: Manchmal bleibt mir ein Gedanke oder Thema im Kopf stecken, und ich muss darüber
+104: reden, auch wenn niemand interessiert ist.
+105: 50.
+106: Ich mache bestimmte Dinge mit meinen Händen immer wieder (z. B. Flattern, Stäbe
+107: drehen, Gegenstände vor meinen Augen bewegen).
+108: 51.
+109: Ich war noch nie an dem interessiert, was die meisten Menschen um mich herum
+110: interessiert.
+111: 52.
+112: 53. Ich werde als mitfühlend angesehen.
+113: Ich komme mit anderen zurecht, indem ich bestimmte Regeln befolge, die mir helfen,
+114: normal zu wirken.
+115: 54.
+116: 55. Es ist für mich sehr schwer, in Gruppen zu arbeiten und zu funktionieren.
+117: Wenn ich mit jemandem spreche, fällt es mir schwer, das Thema zu wechseln. Wenn
+118: die andere Person das tut, macht mich das sehr wütend und verwirrt.
+119: 56.
+120: Manchmal muss ich mir die Ohren zuhalten, um schmerzhafte Geräusche zu
+121: blockieren (z. B. Staubsauger oder laute Menschen).
+122: 57.
+123: 58. Ich kann Smalltalk führen.
+124: Manchmal fühlen sich Dinge, die eigentlich schmerzhaft sein sollten, nicht so an (z. B.
+125: wenn ich mich verletze oder mich verbrenne).
+126: 59.
+127: Wenn ich mit jemandem rede, fällt es mir schwer zu erkennen, wann ich dran bin zu
+128: sprechen oder zuzuhören.
+129: 60.
+130: 61. Ich werde von denen, die mich am besten kennen, als Einzelgänger bezeichnet.
+131: 62. Ich spreche normalerweise in normalem Ton.
+132: Ich mag es, wenn alles Tag für Tag genau gleich ist, und selbst kleine Veränderungen
+133: in meinen Routinen machen mich wütend.
+134: 63.
+135: 64. Wie man Freunde findet und soziale Kontakte pflegt, ist für mich ein Rätsel.
+136: Es beruhigt mich, wenn ich mich im Kreis drehe oder in einem Stuhl wippe, wenn ich
+137: gestresst bin.
+138: 65.
+139: 66. Der Ausdruck „Er trägt sein Herz auf der Zunge" ergibt für mich keinen Sinn.
+140: Wenn ich an einem Ort bin, an dem es viele Gerüche, Geräusche oder helles Licht
+141: gibt, fühle ich mich ängstlich oder verängstigt.
+142: 67.
+143: 68. Ich kann erkennen, wenn jemand etwas sagt, aber etwas anderes meint.
+144: 69. Ich bin so oft wie möglich gerne allein.
+145: Ich speichere meine Gedanken in meinem Gedächtnis wie auf Karteikarten und rufe
+146: sie ab, indem ich durch den Stapel gehe.
+147: 70.
+148: Derselbe Ton kann für mich manchmal sehr laut oder sehr leise erscheinen, obwohl er
+149: sich nicht geändert hat.
+150: 71.
+151: 72. Ich verbringe gerne Zeit mit Familie und Freunden beim Essen und Reden.
+152: Ich kann Dinge, die ich nicht mag (wie Gerüche, Texturen, Geräusche oder Farben),
+153: nicht tolerieren.
+154: 73.
+155: 74. Ich mag es nicht, umarmt oder festgehalten zu werden.
+156: CAT-Q (Camouflaging Autistic Traits Questionnaire)
+157: Wenn ich irgendwo hingehe, muss ich einer bekannten Route folgen, sonst werde ich
+158: sehr verwirrt und wütend.
+159: 75.
+160: 76. Es ist schwer für mich herauszufinden, was andere von mir erwarten.
+161: 77. Ich habe gerne enge Freunde.
+162: 78. Man sagt mir, dass ich zu viele Details erzähle.
+163: 79. Man sagt mir oft, dass ich peinliche Fragen stelle.
+164: 80. Ich neige dazu, andere auf ihre Fehler hinzuweisen.
+165: Wenn ich mit jemandem interagiere, ahme ich absichtlich deren Körpersprache oder
+166: Gesichtsausdrücke nach.
+167: 1.
+168: 2. Ich überwache meine Körpersprache oder Mimik, damit ich entspannt wirke.
+169: Ich habe selten das Bedürfnis, mich zu verstellen, um durch soziale Situationen zu
+170: kommen.
+171: 3.
+172: 4. Ich habe ein „Skript" entwickelt, dem ich in sozialen Situationen folge.
+173: Ich wiederhole Sätze, die ich von anderen gehört habe, genau so, wie ich sie
+174: ursprünglich gehört habe.
+175: 5.
+176: 6. Ich passe meine Körpersprache oder Mimik an, um interessiert zu wirken.
+177: In sozialen Situationen habe ich das Gefühl, eine Rolle zu spielen, anstatt ich selbst zu
+178: sein.
+179: 7.
+180: In meinen sozialen Interaktionen verwende ich Verhaltensweisen, die ich gelernt habe,
+181: indem ich andere beobachtet habe.
+182: 8.
+183: 9. Ich denke immer darüber nach, welchen Eindruck ich auf andere mache.
+184: 10. Ich brauche die Unterstützung anderer, um sozial zu sein.
+185: 11. Ich übe meine Gesichtsausdrücke und Körperhaltung, damit sie natürlich wirken.
+186: 12. Ich empfinde es nicht als nötig, Augenkontakt zu halten, wenn ich nicht will.
+187: 13. Ich muss mich zwingen, in sozialen Situationen mit Menschen zu interagieren.
+188: Ich habe versucht, mein Verständnis für soziale Fähigkeiten zu verbessern, indem ich
+189: andere Menschen beobachtet habe.
+190: 14.
+191: 15. Ich überwache meine Körpersprache oder Mimik, damit ich interessiert wirke.
+192: Wenn ich in sozialen Situationen bin, versuche ich Wege zu finden, um Interaktionen
+193: zu vermeiden.
+194: 16.
+195: Ich habe die Regeln sozialer Interaktionen recherchiert, um meine eigenen
+196: Fähigkeiten zu verbessern.
+197: 17.
+198: 18. Ich bin mir immer bewusst, welchen Eindruck ich auf andere mache.
+199: 19. Ich fühle mich frei, ich selbst zu sein, wenn ich mit anderen Menschen zusammen bin.
+200: Ich lerne, wie Menschen ihre Körper und Gesichter zur Interaktion nutzen, indem ich
+201: Fernsehen oder Filme anschaue oder Belletristik lese.
+202: 20.
+203: 21. Ich passe meine Körpersprache oder Mimik an, damit ich entspannt wirke.
+204: Wenn ich mit anderen Menschen rede, habe ich das Gefühl, dass das Gespräch
+205: natürlich verläuft.
+206: 22.
+207: RBQ2A (Repetitive Behaviours Questionnaire)
+208: AQ (Autism Quotient)
+209: EQ (Empathy Quotient)
+210: Ich habe soziale Fähigkeiten aus Fernsehsendungen und Filmen gelernt und versuche,
+211: sie in meinen Interaktionen zu verwenden.
+212: 23.
+213: In sozialen Interaktionen achte ich nicht darauf, was mein Gesicht oder mein Körper
+214: tun.
+215: 24.
+216: 25. In sozialen Situationen habe ich das Gefühl, vorzutäuschen, „normal" zu sein.
+217: 1. Ordnen Sie gerne Gegenstände in Reihen oder Mustern an?
+218: 2. Spielen Sie wiederholt mit Gegenständen (z. B. drehen, tippen, klopfen, wippen)?
+219: 3. Drehen Sie sich gerne immer wieder im Kreis?
+220: 4. Wiegen Sie sich vor und zurück oder von Seite zu Seite, wenn Sie sitzen oder stehen?
+221: 5. Laufen Sie wiederholt hin und her oder den gleichen Weg entlang?
+222: Machen Sie wiederholt Bewegungen mit den Händen oder Fingern (z. B. Flattern,
+223: Winken)?
+224: 6.
+225: 7. Haben Sie eine Faszination für bestimmte Objekte (z. B. Züge, Verkehrsschilder)?
+226: 8. Sehen Sie sich Objekte gerne aus besonderen oder ungewöhnlichen Winkeln an?
+227: 9. Haben Sie ein besonderes Interesse am Geruch von Menschen oder Objekten?
+228: 10. Haben Sie ein besonderes Interesse am Gefühl verschiedener Oberflächen?
+229: 1. Ich bemerke oft kleine Geräusche, die anderen nicht auffallen.
+230: Wenn ich eine Geschichte lese, fällt es mir schwer, die Absichten der Figuren zu
+231: verstehen.
+232: 2.
+233: 3. Es fällt mir leicht, zwischen den Zeilen zu lesen, wenn jemand mit mir spricht.
+234: 4. Ich konzentriere mich normalerweise mehr auf das Gesamtbild als auf Details.
+235: 5. Ich kann erkennen, ob jemand, der mir zuhört, gelangweilt ist.
+236: 6. Es fällt mir leicht, mehrere Dinge gleichzeitig zu tun.
+237: Es fällt mir leicht zu erkennen, was jemand denkt oder fühlt, nur indem ich sein
+238: Gesicht anschaue.
+239: 7.
+240: 8. Wenn ich unterbrochen werde, kann ich sehr schnell zurück zum Thema finden.
+241: 9. Ich sammele gerne Informationen über Kategorien von Dingen.
+242: 10. Es fällt mir schwer zu erkennen, welche Absichten andere Menschen haben.
+243: 1. Ich kann leicht erkennen, ob jemand anderes in ein Gespräch einsteigen möchte.
+244: 2. Ich ziehe Tiere den Menschen vor.
+245: 3. Ich versuche, mit aktuellen Trends und Moden Schritt zu halten.
+246: Es fällt mir schwer, anderen Dinge zu erklären, die ich leicht verstehe, wenn sie es
+247: beim ersten Mal nicht begreifen.
+248: 4.
+249: 5. Ich träume fast jede Nacht.
+250: 6. Ich helfe gerne anderen Menschen.
+251: Ich versuche, meine eigenen Probleme zu lösen, anstatt sie mit anderen zu
+252: besprechen.
+253: 7.
+254: 8. Es fällt mir schwer, in sozialen Situationen zu wissen, was ich tun soll.
+255: 9. Ich bin morgens am leistungsfähigsten.
+256: 10. Leute sagen mir oft, dass ich bei Diskussionen zu weit gehe.
+257: 11. Es stört mich nicht besonders, wenn ich zu spät zu einem Treffen komme.
+258: Freundschaften und Beziehungen sind zu schwierig, daher beschäftige ich mich oft
+259: nicht damit.
+260: 12.
+261: 13. Ich würde niemals ein Gesetz brechen, egal wie klein.
+262: 14. Es fällt mir oft schwer zu beurteilen, ob etwas unhöflich oder höflich ist.
+263: In einem Gespräch konzentriere ich mich eher auf meine eigenen Gedanken als auf
+264: die des Zuhörers.
+265: 15.
+266: 16. Ich ziehe praktische Späße verbalem Humor vor.
+267: 17. Ich lebe eher im Heute als für die Zukunft.
+268: 18. Als Kind schnitt ich gerne Würmer auf, um zu sehen, was passiert.
+269: 19. Ich erkenne schnell, wenn jemand etwas sagt, aber etwas anderes meint.
+270: 20. Ich habe sehr starke Ansichten über Moral.
+271: 21. Es fällt mir schwer zu verstehen, warum manche Dinge andere so sehr verärgern.
+272: 22. Es fällt mir leicht, mich in jemand anderes hineinzuversetzen.
+273: Gute Manieren sind für mich das Wichtigste, was Eltern ihren Kindern beibringen
+274: sollten.
+275: 23.
+276: 24. Ich mache gerne Dinge spontan.
+277: 25. Ich bin gut darin vorherzusagen, wie sich jemand fühlen wird.
+278: 26. Ich merke schnell, wenn sich jemand in einer Gruppe unwohl fühlt.
+279: Wenn ich etwas sage, das andere verletzt, denke ich, dass das ihr Problem ist, nicht
+280: meins.
+281: 27.
+282: Wenn mich jemand nach seiner neuen Frisur fragt, sage ich immer die Wahrheit, auch
+283: wenn sie mir nicht gefällt.
+284: 28.
+285: Ich kann nicht immer nachvollziehen, warum jemand durch eine Bemerkung verletzt
+286: ist.
+287: 29.
+288: 30. Andere sagen mir oft, dass ich unberechenbar bin.
+289: 31. Ich bin gerne im Mittelpunkt sozialer Treffen.
+290: 32. Es stört mich nicht, wenn ich Menschen weinen sehe.
+291: 33. Ich diskutiere gerne über Politik.
+292: 34. Ich bin sehr direkt, was andere oft für unhöflich halten, auch wenn es unabsichtlich ist.
+293: 35. Soziale Situationen sind für mich nicht verwirrend.
+294: Andere Menschen sagen mir, dass ich gut verstehen kann, wie sie sich fühlen und was
+295: sie denken.
+296: 36.
+297: Wenn ich mit Menschen rede, spreche ich oft über ihre Erfahrungen statt über meine
+298: eigenen.
+299: 37.
+300: 38. Es macht mich traurig, wenn ich ein Tier leiden sehe.
+301: 39. Ich treffe Entscheidungen ohne von den Gefühlen anderer beeinflusst zu werden.
+302: Ich kann mich nicht entspannen, bevor ich nicht alles erledigt habe, was ich geplant
+303: habe.
+304: 40.
+305: Machiavellismus
+306: Narzissmus
+307: 10. Menschen sehen zu mir auf.
+308: 11. Ich habe ein starkes Verlangen, im Mittelpunkt der Aufmerksamkeit zu stehen.
+309: 12. Ich mag es, wenn andere meine Autorität anerkennen.
+310: 13. Ich habe das Gefühl, dass ich etwas Besonderes bin.
+311: 41. Ich kann leicht erkennen, ob jemand an dem interessiert ist, was ich sage.
+312: 42. Ich bin sehr betroffen, wenn ich sehe, dass Menschen in den Nachrichten leiden.
+313: Freunde reden gerne mit mir über ihre Probleme, da sie mich als verständnisvoll
+314: ansehen.
+315: 43.
+316: 44. Ich spüre, wenn ich jemanden unterbreche, auch wenn die Person es mir nicht sagt.
+317: 45. Ich beginne oft neue Hobbys, verliere aber schnell das Interesse.
+318: 46. Menschen sagen mir manchmal, dass ich beim Necken zu weit gehe.
+319: 47. Ich wäre zu nervös, um mit einer großen Achterbahn zu fahren.
+320: Andere Menschen sagen mir oft, dass ich unsensibel bin, auch wenn ich den Grund
+321: nicht sehe.
+322: 48.
+323: Wenn ich einen Fremden in einer Gruppe sehe, denke ich, dass es an ihm liegt, sich
+324: einzubringen.
+325: 49.
+326: 50. Ich bleibe beim Filmeschauen emotional distanziert.
+327: 51. Ich bin sehr organisiert und mache oft Listen mit Aufgaben.
+328: 52. Ich erkenne schnell und intuitiv, wie sich jemand fühlt.
+329: 53. Ich gehe ungern Risiken ein.
+330: 54. Ich kann meist einschätzen, worüber jemand reden möchte.
+331: 55. Ich erkenne, wenn jemand seine wahren Gefühle verbirgt.
+332: 56. Bevor ich eine Entscheidung treffe, wäge ich alle Optionen sorgfältig ab.
+333: • SD3 (Short Dark Triad, 27 Items, Jones & Paulhus 2014)
+334: 1. Es ist klug, andere dazu zu bringen, das zu tun, was man selbst will.
+335: 2. Die meisten Menschen sind naiv und leicht zu manipulieren.
+336: 3. Man sollte anderen nicht zu sehr vertrauen.
+337: 4. Es ist besser, wenn andere nicht wissen, was man wirklich denkt.
+338: 5. Manipulation ist ein nützliches Werkzeug, um voranzukommen.
+339: 6. Ich neige dazu, Leute auszunutzen, wenn es zu meinem Vorteil ist.
+340: 7. Es ist schwierig, in der heutigen Welt ehrlich und erfolgreich zu sein.
+341: 8. Ich verberge oft meine wahren Absichten.
+342: 9. Ich glaube, dass das Ziel die Mittel heiligt.
+343: 14. Ich möchte, dass andere meine Leistungen bewundern.
+344: 15. Ich bin ein natürlicher Anführer.
+345: 16. Ich verdiene mehr Anerkennung, als ich bekomme.
+346: 17. Ich habe ein hohes Selbstwertgefühl.
+347: 18. Ich bin charismatisch und charmant.
+348: Psychopathie
+349: 19. Ich bereue selten etwas.
+350: 20. Ich handle oft impulsiv.
+351: 21. Ich mache mir nicht viele Gedanken über die Zukunft.
+352: 22. Ich nehme Risiken gern in Kauf.
+353: 23. Ich habe wenig Schuldgefühle, wenn ich andere verletze.
+354: 24. Ich neige dazu, andere zu gefährden.
+355: 25. Ich habe eine niedrige Hemmschwelle, mich aggressiv zu verhalten.
+356: 26. Regeln und Gesetze interessieren mich nicht besonders.
+357: 27. Ich handle oft ohne Rücksicht auf die Konsequenzen.
+358: Dirty Dozen (DD) – Dark Triad 12
+359: Machiavellismus
+360: Narzissmus
+361: 5. Ich neige dazu, die Aufmerksamkeit auf mich zu ziehen.
+362: 6. Ich möchte, dass andere meine Qualitäten bewundern.
+363: 7. Ich habe das Bedürfnis, im Mittelpunkt zu stehen.
+364: 8. Ich habe das Gefühl, dass ich etwas Besonderes bin.
+365: Psychopathie
+366: 9. Ich handle oft ohne nachzudenken.
+367: 10. Ich neige dazu, unüberlegt Risiken einzugehen.
+368: 11. Ich habe schon absichtlich Menschen verletzt.
+369: 12. Ich empfinde kaum Schuldgefühle, wenn ich etwas Falsches getan habe.
+370: ASRS v1.1
+371: Teil A – Screening (6 Items)
+372: 1. Ich neige dazu, andere zu manipulieren, um meinen Willen durchzusetzen.
+373: 2. Ich habe andere schon getäuscht, um meine Ziele zu erreichen.
+374: 3. Ich benutze manchmal Tricks, um zu bekommen, was ich will.
+375: 4. Ich lüge und schmeichle, wenn es mir nützt.
+376: Wie oft haben Sie Probleme, die letzten Feinheiten einer Arbeit zum Abschluss zu
+377: bringen, nachdem Sie die wesentlichen Punkte erledigt haben?
+378: 1.
+379: Teil B – Zusatz (12 Items) 7. Wie oft machen Sie bei einer langweiligen oder schwierigen
+380: Arbeit Flüchtigkeitsfehler? 8. Wie oft haben Sie Schwierigkeiten, sich bei längeren
+381: Aufgaben zu konzentrieren? 9. Wie oft hören Sie nicht richtig zu, wenn andere Sie direkt
+382: ansprechen? 10. Wie oft verlieren oder verlegen Sie Dinge wie Schlüssel, Geldbörse oder
+383: Handy? 11. Wie oft werden Sie leicht von Aktivitäten oder Geräuschen in der Umgebung
+384: abgelenkt? 12. Wie oft haben Sie Schwierigkeiten, Anweisungen vollständig zu befolgen
+385: oder Aufgaben abzuschließen? 13. Wie oft unterbrechen oder stören Sie andere, wenn
+386: diese beschäftigt sind? 14. Wie oft reden Sie übermäßig in Situationen, in denen es
+387: unangebracht ist? 15. Wie oft beenden Sie die Sätze anderer Leute, bevor diese fertig sind?
+388: 16. Wie oft haben Sie Schwierigkeiten, abzuwarten, bis Sie an der Reihe sind (z. B. in einer
+389: Schlange)? 17. Wie oft fühlen Sie sich innerlich unruhig oder haben Schwierigkeiten,
+390: stillzusitzen? 18. Wie oft verlassen Sie Ihren Platz in Situationen, in denen Sitzen erwartet
+391: wird (z. B. im Büro oder in Besprechungen)? (Adult ADHD Self-Report Scale, WHO, 18
+392: Fragen) – international am häufigsten genutzt.
+393: Conners' Adult ADHD Rating Scales (CAARS)
+394: Wie oft fällt es Ihnen schwer, Dinge in die Reihe zu bekommen, wenn Sie an einer
+395: Aufgabe arbeiten, bei der Organisation gefragt ist?
+396: 2.
+397: 3. Wie oft haben Sie Probleme, sich an Termine oder Verabredungen zu erinnern?
+398: Wie oft vermeiden oder verzögern Sie es, die Aufgabe zu beginnen, wenn sehr viel
+399: Denkvermögen gefragt ist?
+400: 4.
+401: 5. Wie oft sind Ihre Hände bzw. Füße bei langem Sitzen in Bewegung?
+402: Wie oft fühlen Sie sich übermäßig aktiv, als ob Sie von einem Motor angetrieben
+403: würden?
+404: 6.
+405: 1. Ich habe Spaß an aktiven Tätigkeiten.
+406: Ich verliere Dinge, die für Aufgaben und Aktivitäten wichtig sind (z. B. Aufgabenzettel,
+407: Bleistifte, Bücher, Werkzeuge).
+408: 2.
+409: 3. Ich plane nicht im Voraus.
+410: 4. Ich platze mit Dingen heraus.
+411: 5. Ich bin risikofreudig oder wagemutig.
+412: 6. Ich bin übermäßig selbstkritisch.
+413: 7. Ich beende angefangene Tätigkeiten nicht.
+414: 8. Ich bin leicht frustriert.
+415: 9. Ich rede zu viel.
+416: 10. Ich bin immer auf Achse, wie von einem Motor getrieben.
+417: 11. Ich bin schlecht organisiert.
+418: 12. Ich sage Dinge, ohne darüber nachzudenken.
+419: 13. Ich kann nur schwer für sehr lange Zeit an einem Platz bleiben.
+420: 14. Ich habe Schwierigkeiten, mich bei Freizeitaktivitäten ruhig und leise zu verhalten.
+421: 15. Ich bin nicht selbstsicher.
+422: 16. Ich habe Schwierigkeiten, mehrere Dinge gleichzeitig im Blick zu behalten.
+423: 17. Ich bin immer in Bewegung, auch wenn ich ruhig sein sollte.
+424: 18. Ich vergesse, mich an Dinge zu erinnern.
+425: 19. Ich bin leicht aufbrausend.
+426: 20. Ich bin schnell gelangweilt.
+427: 21. Ich stehe auf, obwohl Sitzenbleiben erwartet wird.
+428: Ich habe Schwierigkeiten, in einer Schlange oder überhaupt zu warten, bis ich dran
+429: bin.
+430: 22.
+431: 23. Ich habe noch immer Wutanfälle.
+432: 24. Ich habe Schwierigkeiten, meine Aufmerksamkeit bei der Arbeit aufrechtzuerhalten.
+433: 25. Ich suche mir schnelle, aufregende Aktivitäten.
+434: 26. Ich vermeide neue Herausforderungen mangels Vertrauen in meine Fähigkeiten.
+435: 27. Ich fühle mich innerlich unruhig, selbst wenn ich still sitze.
+436: 28. Dinge, die ich sehe oder höre, lenken mich von dem ab, was ich gerade tue.
+437: 29. Bei meinen alltäglichen Aktivitäten bin ich vergesslich.
+438: 30. Viele Dinge können mich leicht irritieren.
+439: 31. Ich gehe nur ungern ruhigen bzw. beschaulichen Tätigkeiten nach.
+440: 32. Ich verliere Dinge, die ich brauche.
+441: 33. Ich habe Schwierigkeiten, dem zuzuhören, was andere Leute sagen.
+442: 34. Ich bleibe mit meinen Leistungen hinter meinen Fähigkeiten zurück.
+443: 35. Ich unterbreche andere beim Sprechen.
+444: 36. Ich ändere mittendrin meine Pläne und Aufgaben.
+445: 37. Nach außen hin verhalte ich mich normal, aber innerlich bin ich unsicher.
+446: 38. Ich bin immer umtriebig.
+447: Ich mache Bemerkungen oder Kommentare, die ich am liebsten zurücknehmen
+448: möchte.
+449: 39.
+450: 40. Ich erledige Angelegenheiten nicht, außer unter hohem äußeren Termindruck.
+451: 41. Ich bin zappelig (mit Händen oder Füßen) oder rutsche auf meinem Stuhl herum.
+452: 42. Ich mache Flüchtigkeitsfehler oder habe Schwierigkeiten, auf Details zu achten.
+453: 43. Ich trete Leuten unabsichtlich zu nahe.
+454: 44. Ich habe Schwierigkeiten, mit einer Aufgabe zu beginnen.
+455: 45. Ich mische mich in die Aktivitäten anderer Leute ein.
+456: 46. Ich muss mich sehr anstrengen, still zu sitzen.
+457: 47. Meine Launen sind nicht vorhersehbar.
+458: Ich mag keine Aufgaben zu Hause oder bei der Arbeit, bei denen ich viel denken
+459: muss.
+460: 48.
+461: 49. Ich bin bei alltäglichen Aktivitäten geistig abwesend.
+462: 50. Ich bin unruhig oder übermäßig aktiv.
+463: 51. Ich verlasse mich auf andere, um mein Leben zu regeln und auf Details zu achten.
+464: 52. Ich verärgere andere Leute, ohne es zu wollen.
+465: WURS (Wender Utah Rating Scale, 25 Items) – Rückblick auf Kindheitssymptome.
+466: Manchmal bin ich mit etwas so beschäftigt, dass ich nichts um mich herum
+467: mitbekomme; bei anderen Gelegenheiten werde ich von allem abgelenkt.
+468: 53.
+469: 54. Ich neige dazu, herumzurutschen oder zu zappeln.
+470: 55. Ich kann mich nicht konzentrieren, außer es ist wirklich interessant.
+471: 56. Ich wünschte, ich hätte größeres Vertrauen in meine Fähigkeiten.
+472: 57. Ich kann nicht sehr lange still sitzen.
+473: 58. Ich antworte auf Fragen, bevor diese zu Ende gestellt sind.
+474: 59. Ich bin lieber unterwegs und auf Achse als an einem Platz.
+475: 60. Ich habe Schwierigkeiten, Arbeitsaufträge oder Schularbeiten fertigzustellen.
+476: 61. Ich bin reizbar.
+477: 62. Ich unterbreche andere bei der Arbeit oder bei ihren Freizeitaktivitäten.
+478: 63. Mein Versagen in der Vergangenheit macht es mir schwer, an mich selbst zu glauben.
+479: 64. Ich bin ablenkbar, wenn um mich herum Dinge geschehen.
+480: 65. Ich habe Schwierigkeiten, meine Aufgaben und Aktivitäten zu organisieren.
+481: 66. Ich schätze die Zeit für eine Aktivität oder Wegstrecke falsch ein.
+482: 1. Ich war zornig.
+483: 2. Ich war launisch, meine Stimmung wechselte schnell.
+484: 3. Ich war unglücklich, traurig oder deprimiert.
+485: 4. Ich war weinerlich.
+486: 5. Ich war ängstlich.
+487: 6. Ich war nervös.
+488: 7. Ich war besorgt.
+489: 8. Ich war rebellisch oder ungehorsam.
+490: 9. Ich war streitsüchtig.
+491: 10. Ich war eigensinnig.
+492: 11. Ich war schwierig.
+493: 12. Ich war aggressiv.
+494: 13. Ich war unsozial.
+495: 14. Ich war leicht reizbar.
+496: 15. Ich war impulsiv.
+497: 16. Ich war unkonzentriert, hatte Schwierigkeiten, mich zu fokussieren.
+498: 17. Ich war unruhig, zappelig.
+499: 18. Ich war unorganisiert.
+500: 19. Ich war unzuverlässig.
+501: 20. Ich war vergesslich.
+502: 21. Ich hatte Schwierigkeiten, Aufgaben zu beenden.
+503: 22. Ich war hyperaktiv.
+504: 23. Ich habe schnell die Geduld verloren.
+505: 24. Ich habe Anweisungen nicht befolgt.
+506: 25. Ich habe mich Regeln widersetzt.

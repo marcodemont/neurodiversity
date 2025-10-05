@@ -1,0 +1,11 @@
+OpenAI API Konfiguration für LYNA Chatbot
+
+Diese Datei enthält Informationen zur OpenAI API Integration für den LYNA Chatbot.
+
+Der API-Schlüssel wird als Umgebungsvariable OPENAI_API_KEY gespeichert und ist bereits im Backend konfiguriert.
+
+Verwendetes Modell: gpt-3.5-turbo
+Max Tokens: 500
+Temperature: 0.7
+
+Der Chatbot ist speziell für die Unterstützung bei Neurodiversitäts-Tests konfiguriert und bietet empathische, hilfreiche Antworten.
