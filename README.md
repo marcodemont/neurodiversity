@@ -25,6 +25,12 @@ npm run build
 npm run preview
 ```
 
+## Direkter Start über `_embndv.html`
+
+- Nach dem Klonen kannst du die Datei [`_embndv.html`](./_embndv.html) im Projektstamm doppelklicken.
+- Sie lädt die vorkompilierten Assets aus dem Ordner [`dist`](./dist) und startet die Anwendung komplett lokal – ein separater Dev-Server ist dafür nicht nötig.
+- Möchtest du nach Codeänderungen eine frische statische Version erzeugen, führe `npm run build` aus; die Datei `_embndv.html` verweist automatisch auf die neu generierten Dateien `dist/assets/index.css` und `dist/assets/app.js`.
+
 ## Struktur
 - `src/App.tsx`: Einstiegspunkt der Anwendung und Screen-Routing
 - `src/components/`: Wiederverwendbare Oberflächenbausteine (Navigation, Chatbot, Admin-Bereich)
